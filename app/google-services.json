@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "428476419100",
+    "firebase_url": "https://vendere-5d989.firebaseio.com",
+    "project_id": "vendere-5d989",
+    "storage_bucket": "vendere-5d989.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428476419100:android:7e7bb3b72ed0f56a",
+        "android_client_info": {
+          "package_name": "com.example.paco.vendere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428476419100-kvk8in2as05tjdjgcc5qfc9vdgu6f4oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paco.vendere",
+            "certificate_hash": "77d91ddf97b7923073991c5bff15aab65be0d265"
+          }
+        },
+        {
+          "client_id": "428476419100-jag53fictheenv3tv8hceh6314282b0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_slJI0nlE0kKoiqeZr1udO0Zs9imXWqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428476419100-jag53fictheenv3tv8hceh6314282b0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
